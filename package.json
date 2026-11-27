@@ -1,0 +1,10 @@
+{
+  "name": "signalshift-grid",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@devvit/web": "0.15.6"
+  },
+  "license": "BSD-3-Clause"
+}

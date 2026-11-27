@@ -1,0 +1,16 @@
+{
+  "$schema": "https://developers.reddit.com/schema/config-file.v1.json",
+  "name": "signalshift-grid",
+  "post": {
+    "dir": "webroot",
+    "entrypoints": {
+      "default": {
+        "entry": "index.html",
+        "height": "tall"
+      }
+    }
+  },
+  "dev": {
+    "subreddit": "signalshift_grid_dev"
+  }
+}
